@@ -1,0 +1,6 @@
+U:\Уроки по ПРОГР\BdTiTsCreate\BdTiTsCreate\bin\Debug\BdTiTsCreate.exe
+U:\Уроки по ПРОГР\BdTiTsCreate\BdTiTsCreate\bin\Debug\BdTiTsCreate.pdb
+U:\Уроки по ПРОГР\BdTiTsCreate\BdTiTsCreate\obj\x86\Debug\BdTiTsCreate.csprojResolveAssemblyReference.cache
+U:\Уроки по ПРОГР\BdTiTsCreate\BdTiTsCreate\obj\x86\Debug\BdTiTsCreate.exe
+U:\Уроки по ПРОГР\BdTiTsCreate\BdTiTsCreate\obj\x86\Debug\BdTiTsCreate.pdb
+U:\Уроки по ПРОГР\BdTiTsCreate\BdTiTsCreate\bin\Debug\BdTiTsCreate.exe.config

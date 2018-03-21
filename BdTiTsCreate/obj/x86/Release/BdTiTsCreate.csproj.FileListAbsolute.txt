@@ -1,0 +1,5 @@
+U:\Уроки по ПРОГР\BdTiTsCreate\BdTiTsCreate\bin\Release\BdTiTsCreate.exe.config
+U:\Уроки по ПРОГР\BdTiTsCreate\BdTiTsCreate\bin\Release\BdTiTsCreate.exe
+U:\Уроки по ПРОГР\BdTiTsCreate\BdTiTsCreate\bin\Release\BdTiTsCreate.pdb
+U:\Уроки по ПРОГР\BdTiTsCreate\BdTiTsCreate\obj\x86\Release\BdTiTsCreate.exe
+U:\Уроки по ПРОГР\BdTiTsCreate\BdTiTsCreate\obj\x86\Release\BdTiTsCreate.pdb
